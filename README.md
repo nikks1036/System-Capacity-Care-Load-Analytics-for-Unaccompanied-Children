@@ -8,7 +8,16 @@ This project analyzes the care system load for Unaccompanied Children (UAC). It 
 - Monitor intake vs discharge trends
 - Identify system stress periods
 - Predict future care load using machine learning
+## 📸 Project Screenshots
 
+### 📊 Dashboard Overview
+![Dashboard](dashboard.png)
+
+### 📈 Trend Analysis
+![Total Load](Total Load.png)
+
+### 🤖 Prediction Output
+![Prediction](prediction.png)
 ## 🔄 System Workflow
 CBP Custody → Transfer to HHS → Care → Discharge to Sponsor
 
