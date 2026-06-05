@@ -14,7 +14,7 @@ This project analyzes the care system load for Unaccompanied Children (UAC). It 
 ![Dashboard](dashboard.png)
 
 ### 📈 Trend Analysis
-![Total Load](Total Load.png)
+![Total Load](Total_Load.png)
 
 ### 🤖 Prediction Output
 ![Prediction](prediction.png)
